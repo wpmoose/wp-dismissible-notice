@@ -212,6 +212,15 @@ class Notices {
 	}
 
 	/**
+	 * Remove notice
+	 *
+	 * @param $id
+	 */
+	public function remove_notice( $id ) {
+		unset( $this->notices[ $id ] );
+	}
+
+	/**
 	 * Dismiss a notice
 	 *
 	 * @param $id
