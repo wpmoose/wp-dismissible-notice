@@ -1,5 +1,6 @@
 {
-  "name": "wpoose/wp-dismissible-notice",
+  "name": "wpmoose/wp-dismissible-notice",
+  "description": "Dismissible notice library for WordPress development",
   "autoload": {
     "psr-4": {
       "Wpmoose\\WpDismissibleNotice\\": "src/"
