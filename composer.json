@@ -1,0 +1,11 @@
+{
+  "name": "wpoose/wp-dismissible-notice",
+  "autoload": {
+    "psr-4": {
+      "Wpmoose\\WpDismissibleNotice\\": "src/"
+    }
+  },
+  "authors": [
+  ],
+  "require": {}
+}
